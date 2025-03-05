@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-       <h1 className='text-3xl underline'>Building google Docs using react</h1>
+       <h1 className='text-3xl underline'>Building google Docs using </h1>
        </div>
     </>
   )
